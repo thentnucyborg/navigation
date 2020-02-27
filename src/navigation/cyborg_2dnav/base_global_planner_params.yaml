@@ -1,0 +1,7 @@
+BaseGlobalPlanner:
+  use_dijkstra: true
+  use_quadratic: true
+  visualize_potential: true
+  cost_factor: 0.9
+  neutral_cost: 66.0
+  lethal_cost: 253.0
